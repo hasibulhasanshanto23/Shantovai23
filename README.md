@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineer and Web Developer
 
-- 🔭 I’m currently working on some projets!
+- 🔭 I’m currently working on some projects!
 - 🌱 I’m currently learning ReactJs and NodeJs
 - 👯 I’m looking to collaborate with other Coder
 - 2020 Goals: Contribute more to Open Source projects
