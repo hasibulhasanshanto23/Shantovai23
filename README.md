@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasibul Hasan Shanto 👋
 
-## I'm a Computer Engineer and Web Application Developer
+## Computer Engineer and FullStack Developer
 
 - 🔭 I’m currently working on some projects!
 - 🌱 I’m currently learning ReactJs and NodeJs
