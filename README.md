@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on some projects!
 - 🌱 I’m currently learning ReactJs and NodeJs
 - 👯 I’m looking to collaborate with other Coder
-- 2020 Goals: Contribute more to Open Source projects
+- 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Play Videao Games
 
 ### Languages and Tools:
