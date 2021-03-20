@@ -1,4 +1,10 @@
 ### Hi there, I'm Hasibul Hasan Shanto 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shantovai23&label=Views&color=blue&style=plastic" alt="Shantovai23" /> </p>
+
+### Find  me:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-HasibulHasanShanto-black?color=2b2b2b&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hasibul-hasan-shanto-b19b41207/)
+[![Facebook Follow](https://img.shields.io/badge/%20-HasibulHasanShanto-black?color=2b2b2b&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hasibulhasan.shanto.5494/)
+[![Email Address](https://img.shields.io/badge/%20-hasibulhasan23sept@gmail.com-black?color=2b2b2b&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:hasibulhasan23sept@gmail.com)
 
 ## Computer Engineer and FullStack Developer
 
